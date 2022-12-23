@@ -1,3 +1,4 @@
+//Взято от сюда https://ru.stackoverflow.com/questions/57957/%D0%94%D0%B2%D1%83%D0%BC%D0%B5%D1%80%D0%BD%D1%8B%D0%B9-vector
 #include <vector>
 
 template<typename T> class Array2D
